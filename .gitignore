@@ -1,0 +1,27 @@
+# Java
+*.class
+*.jar
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
